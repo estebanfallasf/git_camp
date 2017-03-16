@@ -1,2 +1,4 @@
 this is a new file
 This is a new line of text
+3rd line of text
+4th line of text
